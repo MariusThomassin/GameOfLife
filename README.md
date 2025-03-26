@@ -26,8 +26,8 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Conw
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YourUsername/JeudelaVie.git
-   cd JeudelaVie
+   git clone https://github.com/YourUsername/GameOfLife.git
+   cd GameOfLife
    ```
 
 2. Install dependencies:
