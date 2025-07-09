@@ -26,7 +26,7 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Conw
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YourUsername/GameOfLife.git
+   git clone https://github.com/MariusThomassin/GameOfLife.git
    cd GameOfLife
    ```
 
@@ -103,10 +103,6 @@ make test
 ```
 make clean
 ```
-
-## 📝 License
-
-[MIT License](LICENSE)
 
 ## 🤝 Contributing
 
